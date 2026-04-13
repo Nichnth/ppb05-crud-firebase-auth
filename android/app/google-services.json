@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209092871486",
+    "project_id": "ppb-crud-auth",
+    "storage_bucket": "ppb-crud-auth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209092871486:android:d40113ada36b34ba4f586f",
+        "android_client_info": {
+          "package_name": "com.example.crud_auth_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRVtJrPgVwXH9TWHzVd7kvoMuxp5J0Ckk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
